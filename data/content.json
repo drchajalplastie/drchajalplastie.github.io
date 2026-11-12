@@ -1,0 +1,242 @@
+{
+  "fr": {
+    "name": "Dre Charlotte Jaloux",
+    "specialty": "Chirurgie plastique et reconstructrice, chirurgie de la main",
+    "nav": {
+      "home": [
+        "Accueil",
+        ""
+      ],
+      "about": [
+        "Parcours",
+        "parcours"
+      ],
+      "expertise": [
+        "Expertises",
+        "expertises"
+      ],
+      "contact": [
+        "Contact",
+        "contact"
+      ],
+      "faq": [
+        "FAQ",
+        "faq"
+      ]
+    },
+    "skip": "Aller au contenu",
+    "nav_label": "Navigation principale",
+    "alt": "Portrait de la Dre Charlotte Jaloux",
+    "language": "English",
+    "hero_title": "Chirurgie plastique, reconstructrice et de la main",
+    "home_intro": "La Dre Charlotte Jaloux exerce au sein de l’équipe de chirurgie plastique de l’Hôpital général de Montréal.",
+    "call": "Appeler le service",
+    "directions": "Obtenir l’itinéraire",
+    "email_label": "Courriel du service de chirurgie plastique",
+    "phone_label": "Téléphone",
+    "fax_label": "Fax",
+    "room_label": "Local",
+    "expertise_intro": "Son parcours clinique couvre la chirurgie de la main, la reconstruction complexe, les lésions des nerfs périphériques et la chirurgie du membre supérieur spastique.",
+    "expertise_link": "Voir les domaines d’expertise",
+    "areas": [
+      [
+        "Chirurgie de la main",
+        "Chirurgie des atteintes et des blessures de la main, avec une attention portée à la récupération de la fonction."
+      ],
+      [
+        "Reconstruction complexe",
+        "Reconstruction après des lésions complexes, notamment dans le contexte de traumatismes."
+      ],
+      [
+        "Nerfs périphériques",
+        "Chirurgie des lésions nerveuses périphériques dans le cadre de la reconstruction et de la récupération fonctionnelle."
+      ],
+      [
+        "Membre supérieur spastique",
+        "Chirurgie reconstructrice du bras et de la main dans le contexte de la spasticité."
+      ]
+    ],
+    "about_intro": "La Dre Charlotte Jaloux est chirurgienne plasticienne et de la main à l’Hôpital général de Montréal. Elle a rejoint l’équipe de chirurgie plastique en juin 2025.",
+    "training_title": "Formation et expérience",
+    "training": [
+      [
+        "Marseille",
+        "Diplôme de médecine à Aix-Marseille Université en 2012, puis formation en chirurgie plastique et reconstructrice à Marseille."
+      ],
+      [
+        "Paris",
+        "Formation complémentaire en chirurgie de la main à l’Institut de la Main, avec un intérêt particulier pour le membre supérieur spastique."
+      ],
+      [
+        "Hôpital de la Timone",
+        "Ancienne cheffe du service de chirurgie de la main et de reconstruction des membres à Marseille."
+      ]
+    ],
+    "research_title": "Recherche",
+    "research": "Titulaire d’un doctorat en neurosciences, la Dre Jaloux s’intéresse à la récupération fonctionnelle du membre supérieur et à la régénération des nerfs périphériques.",
+    "profile_link": "Fiche universitaire McGill",
+    "publication_link": "Publication sur les transferts nerveux de l’avant-bras",
+    "media_title": "Dans les médias",
+    "media_links": [
+      "Blessures liées aux bagues et travaux manuels",
+      "Prévention des blessures à la main"
+    ],
+    "expertise_title": "Domaines d’expertise",
+    "scope": "Pour savoir si une consultation peut être offerte pour votre situation, communiquez avec le service de chirurgie plastique.",
+    "contact_title": "Consultation et coordonnées",
+    "contact_intro": "Pour toute question sur une consultation, communiquez avec le service de chirurgie plastique de l’Hôpital général de Montréal.",
+    "email_note": "Le courriel du service sert aux questions générales. Évitez d’y transmettre un dossier médical ou des renseignements de santé.",
+    "institution_link": "Site du CUSM",
+    "faq_title": "Questions fréquentes",
+    "faq": [
+      [
+        "Comment prendre rendez-vous?",
+        "Appelez le service de chirurgie plastique pour connaître la marche à suivre."
+      ],
+      [
+        "Une demande de consultation est-elle nécessaire?",
+        "Le service de chirurgie plastique peut vous indiquer si une demande est nécessaire dans votre situation."
+      ],
+      [
+        "Où transmettre une demande de consultation?",
+        "Le service de chirurgie plastique peut confirmer le canal et les documents à utiliser. Ses coordonnées sont indiquées sur la page Contact."
+      ],
+      [
+        "Quels documents apporter?",
+        "Au moment de confirmer votre rendez-vous, demandez au service quels documents ou résultats apporter."
+      ],
+      [
+        "Quels problèmes relèvent de sa pratique?",
+        "Consultez la page Expertises pour voir les domaines documentés. Le service peut vous orienter selon votre situation."
+      ]
+    ],
+    "descriptions": {
+      "home": "Dre Charlotte Jaloux, chirurgienne plasticienne et de la main à l’Hôpital général de Montréal. Téléphone, fax et coordonnées du service.",
+      "about": "Formation, parcours clinique et recherche de la Dre Charlotte Jaloux, chirurgienne plasticienne et de la main à Montréal.",
+      "expertise": "Domaines d’expertise de la Dre Charlotte Jaloux en chirurgie de la main, reconstruction, nerfs périphériques et membre supérieur spastique.",
+      "contact": "Coordonnées du service de chirurgie plastique à l’Hôpital général de Montréal pour joindre l’équipe de la Dre Charlotte Jaloux.",
+      "faq": "Renseignements pratiques sur les consultations et les coordonnées du service de chirurgie plastique de l’Hôpital général de Montréal."
+    },
+    "rank": "Professeure agrégée de clinique en chirurgie à l’Université McGill"
+  },
+  "en": {
+    "name": "Dr. Charlotte Jaloux",
+    "specialty": "Plastic, reconstructive and hand surgery",
+    "nav": {
+      "home": [
+        "Home",
+        ""
+      ],
+      "about": [
+        "About",
+        "about"
+      ],
+      "expertise": [
+        "Expertise",
+        "expertise"
+      ],
+      "contact": [
+        "Contact",
+        "contact"
+      ],
+      "faq": [
+        "FAQ",
+        "faq"
+      ]
+    },
+    "skip": "Skip to content",
+    "nav_label": "Main navigation",
+    "alt": "Portrait of Dr. Charlotte Jaloux",
+    "language": "Français",
+    "hero_title": "Plastic, reconstructive and hand surgery",
+    "home_intro": "Dr. Charlotte Jaloux is a member of the plastic surgery team at the Montreal General Hospital.",
+    "call": "Call the department",
+    "directions": "Get directions",
+    "email_label": "Plastic Surgery Department email",
+    "phone_label": "Telephone",
+    "fax_label": "Fax",
+    "room_label": "Room",
+    "expertise_intro": "Her clinical background includes hand surgery, complex reconstruction, peripheral nerve injuries and surgery for upper-limb spasticity.",
+    "expertise_link": "Explore areas of expertise",
+    "areas": [
+      [
+        "Hand surgery",
+        "Surgery for conditions and injuries affecting the hand, with a focus on functional recovery."
+      ],
+      [
+        "Complex reconstruction",
+        "Reconstruction following complex injuries, including traumatic injuries."
+      ],
+      [
+        "Peripheral nerves",
+        "Surgery for peripheral nerve injuries as part of reconstruction and functional recovery."
+      ],
+      [
+        "Upper-limb spasticity",
+        "Reconstructive surgery of the arm and hand in the context of spasticity."
+      ]
+    ],
+    "about_intro": "Dr. Charlotte Jaloux is a plastic and hand surgeon at the Montreal General Hospital. She joined the plastic surgery team in June 2025.",
+    "training_title": "Training and experience",
+    "training": [
+      [
+        "Marseille",
+        "Medical degree from Aix-Marseille University in 2012, followed by residency training in plastic and reconstructive surgery in Marseille."
+      ],
+      [
+        "Paris",
+        "Hand surgery fellowship at the Institut de la Main, with a particular focus on surgery for upper-limb spasticity."
+      ],
+      [
+        "Hôpital de la Timone",
+        "Former head of hand surgery and limb reconstruction at Hôpital de la Timone in Marseille."
+      ]
+    ],
+    "research_title": "Research",
+    "research": "Dr. Jaloux holds a PhD in neuroscience. Her research interests include upper-limb functional recovery and peripheral nerve regeneration.",
+    "profile_link": "McGill faculty profile",
+    "publication_link": "Publication on forearm nerve transfers",
+    "media_title": "In the media",
+    "media_links": [
+      "Ring-related injuries during manual work",
+      "Preventing hand injuries"
+    ],
+    "expertise_title": "Areas of expertise",
+    "scope": "Contact the Plastic Surgery Department to find out whether a consultation is available for your situation.",
+    "contact_title": "Consultations and contact",
+    "contact_intro": "For questions about a consultation, contact the Plastic Surgery Department at the Montreal General Hospital.",
+    "email_note": "The department email is for general inquiries. Please avoid sending medical records or personal health information to this address.",
+    "institution_link": "MUHC website",
+    "faq_title": "Frequently asked questions",
+    "faq": [
+      [
+        "How do I book an appointment?",
+        "Call the Plastic Surgery Department for guidance on the appointment process."
+      ],
+      [
+        "Do I need a referral?",
+        "The Plastic Surgery Department can tell you whether a referral is needed for your situation."
+      ],
+      [
+        "Where should a referral be sent?",
+        "The department can confirm how to send a referral and which documents to include. Its details are listed on the Contact page."
+      ],
+      [
+        "Which documents should I bring?",
+        "When confirming your appointment, ask the department which documents or results to bring."
+      ],
+      [
+        "What conditions fall within her practice?",
+        "See the Expertise page for documented areas of expertise. The department can advise you based on your situation."
+      ]
+    ],
+    "descriptions": {
+      "home": "Dr. Charlotte Jaloux, plastic and hand surgeon at the Montreal General Hospital. Find the department’s phone number, fax and contact details.",
+      "about": "Training, clinical experience and research of Dr. Charlotte Jaloux, a plastic and hand surgeon in Montreal.",
+      "expertise": "Dr. Charlotte Jaloux’s expertise in hand surgery, reconstruction, peripheral nerve injuries and upper-limb spasticity.",
+      "contact": "Contact information for the Montreal General Hospital Plastic Surgery Department and Dr. Charlotte Jaloux’s team.",
+      "faq": "Practical information about consultations and contacting the Montreal General Hospital Plastic Surgery Department."
+    },
+    "rank": "Clinical Associate Professor of Surgery at McGill University"
+  }
+}

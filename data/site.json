@@ -1,0 +1,21 @@
+{
+  "domain": "https://charlottejaloux.com",
+  "name": "Charlotte Jaloux",
+  "credentials": "MD, PhD",
+  "hospital": {"fr": "Hôpital général de Montréal", "en": "Montreal General Hospital"},
+  "institution": {"fr": "Centre universitaire de santé McGill (CUSM)", "en": "McGill University Health Centre (MUHC)"},
+  "address": {"fr": "1650, avenue Cedar", "en": "1650 Cedar Avenue"},
+  "room": "L9-200",
+  "city": "Montréal",
+  "province": "QC",
+  "postal": "H3G 1A4",
+  "country": "Canada",
+  "phone": "514 934-8025",
+  "fax": "514 934-8207",
+  "email": "chirplastic.hgm@muhc.mcgill.ca",
+  "institution_url": "https://cusm.ca",
+  "institution_en_url": "https://muhc.ca",
+  "profile": "https://www.mcgill.ca/plasticsurgery/faculty/dr-charlotte-jaloux",
+  "publication": "https://pubmed.ncbi.nlm.nih.gov/35906417/",
+  "media": ["https://muhc.ca/muhc-media/muhc-media-june-1-2026", "https://muhc.ca/muhc-media/muhc-media-may-25-2026"]
+}
